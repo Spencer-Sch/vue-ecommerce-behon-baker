@@ -14,4 +14,4 @@ Tracking my progress through the tutorial.
 
 ## Course Progress
 
-initial commit
+00:00 through 55:52 complete
