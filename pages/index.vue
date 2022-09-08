@@ -11,13 +11,11 @@
     <br /><br /><br />
     <Newsletter />
     <Footer />
+    <ScrollTop />
   </div>
 </template>
 
 <script>
-import HomeCarousel from "~/components/HomeCarousel.vue";
-import ProductSlider from "~/components/ProductSlider.vue";
-import Newsletter from "~/components/Newsletter.vue";
 export default {
   async created() {
     this.sale_items = await this.$content("products")
@@ -31,7 +29,6 @@ export default {
       sale_items: null,
     };
   },
-  components: { HomeCarousel, ProductSlider, Newsletter },
 };
 </script>
 <style></style>

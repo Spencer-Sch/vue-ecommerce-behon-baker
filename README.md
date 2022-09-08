@@ -15,3 +15,4 @@ Tracking my progress through the tutorial.
 ## Course Progress
 
 00:00 through 55:52 complete
+55:52 through 1:44:23 complete
