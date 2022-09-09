@@ -16,3 +16,5 @@ Tracking my progress through the tutorial.
 
 00:00 through 55:52 complete
 55:52 through 1:44:23 complete
+1:44:23 through 1:04:51 complete
+Tutorial Complete!
